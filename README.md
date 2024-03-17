@@ -5,4 +5,4 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/asifsahadh](https://github.com/asifsahadh)
 
-- 📫 How to reach me **asifsahadh3@gmail.com**
+- 📫 How to reach me asifsahadh3@gmail.com
