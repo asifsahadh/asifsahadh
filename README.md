@@ -9,15 +9,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-Python
+~ Python
+<br>
 ~ Scikit-Learn
+<br>
 ~ Pandas
+<br>
 ~ Numpy
+<br>
 ~ Matplotlib
+<br>
 ~ Seaborn
+<br>
 ~ TensorFlow
+<br>
 ~ MS SQL
+<br>
 ~ HTML
+<br>
 ~ CSS
 
 <!-- <p align="left">
