@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Mohammed Asif Sahadh</h2>
-<h3>A Data Science enthusisats, passionate about Machine Learning, Deep Learning, Data Analytics & Maths.</h3>
+<h3>A Data Science enthusiast, passionate about Machine Learning, Deep Learning, Data Analytics & Mathematics.</h3>
 
 - 💻 My portfolio website [https://asifsahadh.github.io/](https://asifsahadh.github.io/)
 
