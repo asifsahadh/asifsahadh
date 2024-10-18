@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Mohammed Asif Sahadh</h2>
 <h3>A Data Science enthusiast, passionate about Machine Learning, Deep Learning, Data Analytics & Maths.</h3>
 
-- 🏫 Pursuing my Master's in Data Science @ Vellore Institute of Technology, Andra Pradesh.
+- 🏫 Pursuing my Master's in Data Science at Vellore Institute of Technology, Andra Pradesh.
     
 - 💻 My portfolio website [https://asifsahadh.github.io/](https://asifsahadh.github.io/)
 
