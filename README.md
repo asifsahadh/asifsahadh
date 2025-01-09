@@ -3,9 +3,9 @@
 
 - Pursuing my Master's in Data Science at Vellore Institute of Technology, Andhra Pradesh.
     
-- My [Portfolio Website](https://asifsahadh.github.io/)
+- My portfolio pebsite https://asifsahadh.github.io/
 
-- My [LinkedIn](https://www.linkedin.com/in/asifsahadh/)
+- My LinkedIn https://www.linkedin.com/in/asifsahadh/
 
 - How to reach me asifsahadh3@gmail.com
 
