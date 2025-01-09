@@ -5,6 +5,8 @@
     
 - My portfolio website [https://asifsahadh.github.io/](https://asifsahadh.github.io/)
 
+- My [LinkedIn](https://www.linkedin.com/in/asifsahadh/)
+
 - How to reach me asifsahadh3@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
