@@ -5,7 +5,7 @@
     
 - My portfolio website https://asifsahadh.github.io/
 
-- My LinkedIn https://www.linkedin.com/in/asifsahadh/
+- My LinkedIn profile https://www.linkedin.com/in/asifsahadh/
 
 - How to reach me asifsahadh3@gmail.com
 
