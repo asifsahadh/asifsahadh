@@ -1,5 +1,5 @@
 <h2>Hi, I'm Mohammed Asif Sahadh.</h2>
-<h3>A Data Science enthusiast, passionate about NLP, Deep Learning & Machine Learning.</h3>
+<h3>A Data Science enthusiast, focusing on NLP, Deep Learning & Machine Learning.</h3>
 
 - Pursuing my Master's in Data Science at Vellore Institute of Technology, Andhra Pradesh.
     
