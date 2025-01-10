@@ -1,20 +1,25 @@
-# Hi, I'm Mohammed Asif Sahadh  
-### A Data Science enthusiast, focusing on NLP, Deep Learning & Machine Learning  
+<h2>Hi, I'm Mohammed Asif Sahadh.</h2>
+<h3>A Data Science enthusiast, focusing on NLP, Deep Learning & Machine Learning.</h3>
 
-- **📚 Pursuing**: Master's in Data Science at Vellore Institute of Technology, Andhra Pradesh  
-- **🌐 Portfolio**: [asifsahadh.github.io](https://asifsahadh.github.io/)  
-- **🔗 LinkedIn**: [linkedin.com/in/asifsahadh](https://www.linkedin.com/in/asifsahadh/)  
-- **📧 How to reach me**: asifsahadh3@gmail.com  
+- Pursuing my Master's in Data Science at Vellore Institute of Technology, Andhra Pradesh.
+    
+- My portfolio website https://asifsahadh.github.io/
+
+- My LinkedIn profile https://www.linkedin.com/in/asifsahadh/
+
+- How to reach me asifsahadh3@gmail.com
 
 ---
 
-### 🔧 Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+
 - **Programming**: Python | R | Dart  
 - **Frameworks**: PyTorch | TensorFlow  
 - **Data Analysis**: Pandas | Numpy | Scikit-Learn  
 - **Visualization**: Matplotlib | Seaborn | Plotly  
 - **Databases**: SQL  
-- **Web Development**: HTML | CSS  
+- **Web Development**: HTML | CSS
+
 <!-- <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
