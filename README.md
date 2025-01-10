@@ -13,11 +13,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- **Programming**: Python | R | Dart  
-- **Frameworks**: PyTorch | TensorFlow  
-- **Data Analysis**: Pandas | Numpy | Scikit-Learn  
-- **Visualization**: Matplotlib | Seaborn | Plotly  
-- **Databases**: SQL  
+- **Programming**: Python | R | Dart
+  
+- **Frameworks**: PyTorch | TensorFlow
+  
+- **Data Analysis**: Pandas | Numpy | Scikit-Learn
+  
+- **Visualization**: Matplotlib | Seaborn | Plotly
+  
+- **Databases**: SQL
+  
 - **Web Development**: HTML | CSS
 
 <!-- <p align="left">
