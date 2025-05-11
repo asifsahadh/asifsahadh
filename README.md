@@ -2,10 +2,10 @@
 <h3>A Data Science enthusiast, focusing on LLMs, NLP, Deep Learning & Machine Learning.</h3>
 
 - Pursuing my Master's in Data Science at Vellore Institute of Technology, Andhra Pradesh.
-    
-- My portfolio website https://asifsahadh.github.io/
 
 - My LinkedIn profile https://www.linkedin.com/in/asifsahadh/
+  
+- My portfolio website https://asifsahadh.github.io/
 
 - How to reach me asifsahadh3@gmail.com
 
