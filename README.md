@@ -11,4 +11,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-Python  |  PyTorch  |  TensorFlow  |  Scikit-Learn  |  Pandas  |  Numpy  |  Matplotlib  |  Seaborn  |  Streamlit  |  Jupyter Notebook  | Plotly  |  SQL  |  R  |  Streamlit  |  Dart  |  HTML  |  CSS
+Python  |  PyTorch  |  TensorFlow  |  Scikit-Learn  |  Pandas  |  Numpy  |  Matplotlib  |  Seaborn  |  Streamlit  |  Jupyter Notebook  |  BeautifulSoup  |  Plotly  |  SQL  |  R  |  Dart  |  HTML  |  CSS
