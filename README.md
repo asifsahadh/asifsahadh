@@ -3,6 +3,8 @@
 
 - Pursuing my Master's in Data Science at Vellore Institute of Technology, Andhra Pradesh.
 
+- Working as a Data Science Intern at ExactSpace Technologies.
+
 - My LinkedIn profile https://www.linkedin.com/in/asifsahadh/
   
 - My portfolio website https://asifsahadh.github.io/
