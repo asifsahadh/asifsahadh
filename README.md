@@ -1,5 +1,5 @@
 <h1>Hi, I'm Mohammed Asif Sahadh.</h1>
-<h3>Actively focusing on Transformer-based models, NLP, Deep Learning & Machine Learning.</h3>
+<h3>Exploring Transformer Architectures, Optimisation, Natural Language Processing, Deep Learning, and Machine Learning.</h3>
 
 - Working as a Data Science intern at ExactSpace.
 
